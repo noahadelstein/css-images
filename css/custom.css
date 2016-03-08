@@ -1,1 +1,18 @@
 /*your custom CSS here*/
+.pic1 {
+
+text-align: center;
+}
+body {
+  background-image: url("../img/red.jpg");
+
+background-repeat: no-repeat;
+background-position: center 400px;
+}
+.heading {
+  width: 100%auto;height: 400px;
+  background-image: url(../img/montains.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: inherit;
+}
